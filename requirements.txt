@@ -1,0 +1,9 @@
+scapy
+joblib
+scikit-learn
+fastapi
+uvicorn
+rich
+requests
+ipwhois
+python-dotenv
